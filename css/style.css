@@ -76,7 +76,7 @@ header{
 
 .b_img {
 	margin: 0 auto;
-	width: 77%:
+	width: 71%;
 }
 .b_img img{
 	width: 100%;
@@ -146,6 +146,9 @@ header{
 }
 .s_img_l img, .s_img_m img, .s_img_r img {
  	width: 100%;
+}
+.s_img_m img{
+	width: 327px;
 }
 .s_right {
 	background-color: #fff8e8;
